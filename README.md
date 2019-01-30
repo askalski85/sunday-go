@@ -12,4 +12,9 @@ export GOPATH=$PDW
 ```
 go install github.com/askalski85/sunday-go/hello
 bin/hello
-``` 
+```
+
+### lib-hello
+```
+go build github.com/askalski85/sunday-go/lib-hello
+```
